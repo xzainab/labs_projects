@@ -117,8 +117,8 @@ Python 3 · `pandas` · `streamlit` · `uuid` · `random` · `os` · Jupyter Not
 ```bash
 pip install pandas streamlit
 
-python YummyHub.py              # CLI
-streamlit run DIGITAL_RECIPE.py # Dashboard
+python YummyHub.py          
+streamlit run DIGITAL_RECIPE.py 
 ```
 
 ## 15. Sources & Acknowledgments
